@@ -1,1 +1,1 @@
-# AWSEC2-Automation
+# AWSInfra-Automation
